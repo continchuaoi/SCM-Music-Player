@@ -1,5 +1,5 @@
 (function(){
-	var hasFrame = window.parent!=window,
+	var hasFrame = windoggggw.parent!=window,
 		scripts = document.getElementsByTagName('script'),
 		current = scripts[scripts.length-1],
 		config = current.getAttribute('data-config'),
